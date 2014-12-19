@@ -1,3 +1,6 @@
+Position : BigFloat {
+}
+
 Point {
   Position x = 0.0f;
   Position y = 0.0f;
